@@ -1,4 +1,4 @@
-# patientDrugMining
+# Patient Drug Usage Pattern Mining
 This project leverages sequential pattern mining to discover patients' frequent drug usage pattern and then apply cox regression to determine hazard pattern. 
 Details can be referred to project_v1.pdf.
 
